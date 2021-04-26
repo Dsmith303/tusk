@@ -5,3 +5,9 @@ Welcome to Github Tutorial Kitchen
 Pasta
 Pizza
 Fried Chicken
+
+Beans
+Rice
+
+
+Thank you!
